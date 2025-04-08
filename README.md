@@ -4,7 +4,7 @@
 </div>
 <div align="center" class="Contact">
 <a href="https://t.me/user0635"><img src="https://img.shields.io/badge/Telegram-008cf0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://discordapp.com/users/1359066294657224798"><img src="https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Qurclinc&style=flat-square&color=blue" alt="Visits"/>
