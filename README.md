@@ -61,11 +61,19 @@ I am 2nd year Cybersecurity student. :books:
 ---
 
 ### :bar_chart: Statistics:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Qurclinc&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Qurclinc&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qurclinc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qurclinc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurclinc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qurclinc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qurclinc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qurclinc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=tokyonight)
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Qurclinc)
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Qurclinc&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
 <!--
 **Qurclinc/Qurclinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
