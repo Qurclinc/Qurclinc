@@ -48,6 +48,8 @@ I am 2nd year Cybersecurity student. :books:
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" height="60" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" height="60" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="60" />&nbsp;
