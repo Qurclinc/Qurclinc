@@ -36,6 +36,8 @@ I am 2nd year Cybersecurity student. :books:
 
 - :zap: In my free time, I solve HackTheBox & TryHackMe machines.
 
+- I use arch btw.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
