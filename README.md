@@ -3,6 +3,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1jNmk4YTVocGJuZnZ4eHY3cWM0Y2hmcmxsbG1kbjc4YWx6YzBmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" width="15%" height="15%"/><br/>
 </div>
 <div align="center" class="Contact">
+<a href="https://gitlab.com/Qurclinc"></a><img src="https://img.shields.io/badge/Gitlab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://t.me/user0635"><img src="https://img.shields.io/badge/Telegram-008cf0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://discordapp.com/users/1359066294657224798"><img src="https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
@@ -23,7 +24,7 @@
 ### :computer: About Me :
 
 <br/>
-I am 2nd year Cybersecurity student. :books:
+I am 3rd year Cybersecurity student. :books:
 <br/>
 
 - :telescope: I’m currently working on something interesting. :sparkles:
