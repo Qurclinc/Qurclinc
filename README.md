@@ -6,6 +6,7 @@
 <a href="https://gitlab.com/Qurclinc"></a><img src="https://img.shields.io/badge/Gitlab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://t.me/user0635"><img src="https://img.shields.io/badge/Telegram-008cf0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://discordapp.com/users/1359066294657224798"><img src="https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://ctftime.org/user/203875"><img src="https://img.shields.io/badge/CTF%20Time-ff0000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iX9Ch0LvQvtC5XzQiIGRhdGEtbmFtZT0i0KHQu9C+0LkgNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNDMuMjEgNDIuMDYiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6ICNmZmY7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0ibTAsMHY0Mi4wNmg0My4yMVYwSDBabTM3LjQsMzYuMjZINS43NFY1LjYyaDMxLjY2djMwLjY0WiIvPgogIDxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIxMy4yMSA1LjUzIDUuNjYgNS40OSA1LjY4IDYuMTcgMTkuNzcgMjAuOTggMTMuMzQgMjcuNyAxNy44MSAzMS45MSAyOC4xMSAyMS4xNSAxMy4yMSA1LjUzIi8+Cjwvc3ZnPg==" alt="CTF Time"/></a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Qurclinc&style=flat-square&color=blue" alt="Visits" />
