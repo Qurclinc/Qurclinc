@@ -72,6 +72,17 @@ I am 3rd year Cybersecurity student. :books:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qurclinc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<div class="statistics" align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Qurclinc.png" width="68%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurclinc&theme=tokyonight" width="68%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qurclinc&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qurclinc&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qurclinc&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qurclinc&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/Qurclinc" width="68%"/>
+</div>
+
+<!-- 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurclinc&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qurclinc&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qurclinc&theme=tokyonight)
@@ -80,6 +91,10 @@ I am 3rd year Cybersecurity student. :books:
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Qurclinc)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Qurclinc.png" alt="Your Image Badge" />
+
+-->
+
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Qurclinc&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
 <!--
