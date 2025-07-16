@@ -74,7 +74,7 @@ I am 3rd year Cybersecurity student. :books:
 
 <div class="statistics" align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Qurclinc.png" width="68%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurclinc&theme=tokyonight" width="68%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurclinc&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qurclinc&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qurclinc&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qurclinc&theme=tokyonight" />
