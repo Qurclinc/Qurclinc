@@ -40,8 +40,6 @@ I am 3rd year Cybersecurity student. :books:
 
 - :tokyo_tower: I use arch btw.
 
-- :eyes: I know that you're here for welcome flag. There it is: `void{h3ll0_fr0m_kn1ghts}`
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
