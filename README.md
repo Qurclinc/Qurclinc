@@ -50,6 +50,7 @@ I am 3rd year Cybersecurity student. :books:
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="60" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ansible.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" height="60" />&nbsp;
