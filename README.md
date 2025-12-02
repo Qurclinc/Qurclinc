@@ -65,7 +65,7 @@ I am 3rd year Cybersecurity student. :books:
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="60" />&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TaildindCSS-Dark.svg" height="60" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="60" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" height="60" />&nbsp;
