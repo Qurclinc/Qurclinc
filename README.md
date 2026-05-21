@@ -35,7 +35,7 @@ I am 3rd year Cybersecurity student. :books:
 
 - :telescope: I’m currently working on something interesting. :sparkles:
 
-- :seedling: I’m currently learning Python, DevOps.
+- :seedling: I’m currently learning Python, DevOps, Go.
 
 - :mag_right: Actively playing CTFs — mostly focused on web challenges and recon.
 
@@ -61,6 +61,7 @@ I am 3rd year Cybersecurity student. :books:
   <img src="https://github.com/Qurclinc/icons/raw/main/icons/Git.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/raw/main/icons/Arch-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/blob/main/icons/PostgreSQL-Dark.svg" height="60" />&nbsp;
+  <img src="https://github.com/Qurclinc/icons/blob/main/icons/Redis-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/blob/main/icons/VSCode-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/blob/main/icons/HTML.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/blob/main/icons/CSS.svg" height="60" />&nbsp;
