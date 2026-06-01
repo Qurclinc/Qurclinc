@@ -58,6 +58,8 @@ I am 3rd year Cybersecurity student. :books:
   <img src="https://github.com/Qurclinc/icons/raw/main/icons/Docker.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/raw/main/icons/Kubernetes.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/raw/main/icons/Ansible.svg" height="60" />&nbsp;
+  <img src="https://github.com/Qurclinc/icons/raw/main/icons/Prometheus.svg" height="60" />&nbsp;
+  <img src="https://github.com/Qurclinc/icons/raw/main/icons/Grafana-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/raw/main/icons/Git.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/raw/main/icons/Arch-Dark.svg" height="60" />&nbsp;
   <img src="https://github.com/Qurclinc/icons/blob/main/icons/PostgreSQL-Dark.svg" height="60" />&nbsp;
